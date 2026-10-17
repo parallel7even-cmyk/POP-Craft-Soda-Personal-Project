@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 700" role="img" aria-label="POP! Craft Soda Co.">
+  <!-- POP! stacked lockup · bubble mark + wordmark + tagline -->
+  <!-- Bubble mark -->
+  <g fill="none" stroke="#191022" stroke-width="46" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="350" cy="240" r="110"/>
+    <circle cx="312" cy="205" r="15" fill="#191022" stroke="none"/>
+    <circle cx="478" cy="150" r="27"/>
+    <circle cx="424" cy="72" r="16"/>
+  </g>
+  <!-- Wordmark -->
+  <g transform="translate(62 390) scale(0.85)">
+    <g fill="none" stroke="#191022" stroke-width="46" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M80 60V200"/>
+      <path d="M80 60a47 47 0 0 1 0 94"/>
+      <circle cx="300" cy="130" r="71"/>
+      <path d="M460 60V200"/>
+      <path d="M460 60a47 47 0 0 1 0 94"/>
+      <g transform="rotate(10 614 140)">
+        <path d="M614 74v78"/>
+        <circle cx="614" cy="200" r="24" fill="#191022" stroke="none"/>
+      </g>
+    </g>
+  </g>
+  <!-- Tagline -->
+  <text x="360" y="650" text-anchor="middle" font-family="'Arial Rounded MT Bold','Fredoka','Nunito',sans-serif"
+        font-size="38" font-weight="700" letter-spacing="14" fill="#191022">CRAFT SODA CO.</text>
+</svg>
